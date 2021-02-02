@@ -1,0 +1,9 @@
+
+>
+java:S1148/"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+B
+java:S1905,"'Remove this unnecessary cast to "File".(˜›ªíùÿÿÿÿ
+E
+java:S1068"*Remove this unused "driver" private field.(Þ¡à²ûÿÿÿÿ
+p
+java:S1450"URemove the "driver" field and declare it as a local variable in the relevant methods.(Þ¡à²ûÿÿÿÿ

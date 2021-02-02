@@ -1,0 +1,27 @@
+
+k	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Á¥Êøÿÿÿÿ
+W
+java:S1126#"AReplace this if-then-else statement by a single return statement.(í ‘ù
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûê‰Òøÿÿÿÿ
+T
+java:S3516 "9Refactor this method to not always return the same value.(æø„¿úÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÉ”‹
+Y
+java:S2583#"CChange this condition so that it does not always evaluate to "true"(í ‘ù
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áôÞú
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¿‰­
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø„¿úÿÿÿÿ
+E
+java:S1068"*Remove this unused "driver" private field.(Þ¡à²ûÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áôÞú
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¬ÇŠýÿÿÿÿ
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‘¾…
+>
+java:S1148B"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+s
+java:S4144x"]Update this method so that its implementation is not identical to "swipeElement" on line 107.(óèÖÕ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "//*[@text='" 5 times.(Ž–Ëöýÿÿÿÿ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Á¥Êøÿÿÿÿ
